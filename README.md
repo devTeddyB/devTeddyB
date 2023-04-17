@@ -2,7 +2,7 @@
 <h3><div align="center"> 👋 Welcome to My Labs </div></h3>
 
 <h4><div align="center"> 💬 Introduction </div></h4>
-<h5><div align="center"> 안녕하세요.   AI서비스 개발을 하고싶어 머신러닝과 딥러닝을 공부하고 있습니다. </div></h5>
+<h5><div align="center"> 안녕하세요.   \\AI서비스 개발을 하고싶어 머신러닝과 딥러닝을 공부하고 있습니다. </div></h5>
 
 
 
