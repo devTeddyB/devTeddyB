@@ -4,7 +4,7 @@
 __<div align="center"> 💬 Introduction </div>__
 <div align="center"> AI 서비스 개발을 하고자 머신러닝과 딥러닝을 공부하고 있습니다.</div>
 
-__<div align="center"> ☑️ Skills </div>__
+__<div align="center"> ☑️ Skills & Studying</div>__
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=Pandas&logoColor=white"/>
