@@ -18,7 +18,7 @@ __<div align="center"> ☑️ Skills & Studying</div>__
 </div>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devTeddyB&layout=compact)](https://github.com/devTeddyB/github-readme-stats)
+
 
 
 
