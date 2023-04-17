@@ -7,7 +7,7 @@ __<div align="center"> 💬 Introduction </div>__
 __<div align="center"> ☑️ Skills </div>__
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
-  
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=Pandas&logoColor=white"/>
 </div>
 
 
