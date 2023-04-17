@@ -4,7 +4,7 @@
 __<div align="center"> 💬 Introduction </div>__
 <div align="center"> 안녕하세요. AI 서비스 개발을 하고자 머신러닝과 딥러닝을 공부하고 있습니다.</div>
 
-<
+
 
 
 
