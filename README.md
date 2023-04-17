@@ -11,7 +11,7 @@ __<div align="center"> ☑️ Skills </div>__
   <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=Numpy&logoColor=white"/>
 </div>
 <div align="center">
-  <img src="https://img.shields.io/badge/Scikit_learn-#F7931E?style=flat&logo=Scikit_learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SkLearn-F7931E?style=flat&logo=Scikit_learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=OpenCV&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat&logo=Tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat&logo=Pytorch&logoColor=white"/>
